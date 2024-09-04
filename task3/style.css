@@ -1,0 +1,267 @@
+.layout-1 {
+  background-image: url("Images/Image-1.png");
+  background-repeat: no-repeat;
+  background-position: 100%;
+  h1 {
+    font-size: 26px;
+    line-height: 38px;
+    font-weight: bold;
+    color: #37447e;
+  }
+  button {
+    width: 160px;
+    height: 26px;
+    font-weight: bold;
+    color: white;
+    background-color: #111b47;
+    border: none;
+  }
+  .context-one {
+    width: 540px;
+    h2 {
+      font-size: 50px;
+      line-height: 66px;
+    }
+    p {
+      font-size: 18px;
+      line-height: 30px;
+      color: #505f98;
+    }
+    button {
+      margin-top: 50px;
+      width: 190px;
+      height: 36px;
+      font-weight: bold;
+      color: white;
+      background-color: #111b47;
+      border: none;
+    }
+    #learn-more {
+      margin-left: 20px;
+      background-color: transparent;
+      color: #091133;
+      border: 2px solid #091133;
+    }
+  }
+}
+
+.layout-2 h3 {
+  font-family: "Roboto";
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 48px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.layout-2 {
+  margin-top: 100px;
+  padding-left: 50px;
+}
+
+.layout-2 p {
+  padding-top: 20px;
+  width: 540px;
+  top: 64px;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+  color: #6f7cb2;
+}
+
+.image-2 {
+  margin-top: 250px;
+}
+
+.slide-1 p {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  width: 255px;
+  height: 54px;
+  top: 82px;
+}
+
+.slide-1 h3 {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.slide-2 {
+  padding-left: 100px;
+}
+
+.slide-2 p {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  width: 255px;
+  height: 54px;
+  top: 82px;
+  color: #3f3d56;
+}
+
+.slide-2 h3 {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.layout-3 {
+  margin-top: 250px;
+  margin-left: 100px;
+}
+
+.contents {
+  margin-top: 60px;
+}
+.layout-3 p {
+  padding-top: 20px;
+  width: 445px;
+  top: 64px;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #6f7cb2;
+}
+
+.layout-4 {
+  margin-top: 250px;
+  margin-left: 100px;
+}
+
+.layout-4 p {
+  padding-top: 20px;
+  width: 445px;
+  top: 64px;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #6f7cb2;
+}
+
+.layout-5 {
+  margin-top: 250px;
+  margin-left: 100px;
+}
+
+.layout-5 p {
+  padding-top: 20px;
+  width: 540px;
+  top: 64px;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.layout-5 h3 {
+  font-family: "Roboto";
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 48px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.footer-contents {
+  margin-top: 300px;
+  text-align: center;
+}
+
+.footer-contents h2 {
+  font-family: "Roboto";
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 48px;
+}
+
+.footer-contents p {
+  padding-top: 20px;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: center;
+  width: 600px;
+  margin: auto;
+}
+
+.challenge-three {
+  background-image: url("Images/new.svg");
+  height: 800px;
+  .align-box {
+    padding-top: 200px;
+    h3 {
+      font-size: 36px;
+      line-height: 48px;
+      color: #091133;
+    }
+    .final {
+      width: 600px;
+      text-align: center;
+      color: #6f7cb2;
+      font-size: 16px;
+      line-height: 26px;
+    }
+    h1 {
+      color: #222f65;
+      font-size: 50px;
+      line-height: 66px;
+    }
+  }
+}
+
+.bottom {
+  background: #e7ecff;
+  height: 170px;
+  h1 {
+    font-size: 26px;
+    line-height: 38px;
+    font-weight: bold;
+    color: #37447e;
+  }
+  .end {
+    padding-top: 40px;
+  }
+  button {
+    width: 150px;
+  }
+}
+.tab-bar {
+  width: 250px;
+  a {
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 24px;
+    color: #505f98;
+  }
+}
+button {
+  width: 190px;
+  height: 36px;
+  color: white;
+  background-color: #111b47;
+  border: none;
+}
